@@ -1,2 +1,3 @@
 # Voron350
-Voron350 Settings
+VORON2 KE0OPR 350mm SKR 1.3 TMC2209 UART config
+
