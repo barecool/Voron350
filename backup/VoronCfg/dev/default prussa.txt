@@ -1,0 +1,4 @@
+;M190 S0
+;M109 S0 ; uncomment to remove set&wait temp gcode added automatically after this start gcode
+;print_start EXT_TEMP={first_layer_temperature[initial_extruder]+extruder_temperature_offset[initial_extruder]} BED_TEMP=[first_layer_bed_temperature]
+;print_start EXTRUDER=[first_layer_temperature] BED=[first_layer_bed_temperature]
